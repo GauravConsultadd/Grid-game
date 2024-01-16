@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    width: 30vw;
+}
+
+.remote {
+    background-color: blue;
+    height: 50vh;
+    width: 30vw;
+}
+
+.fontawesomesvg {
+    height: 9vw;
+    width: 15vw;
+    background-color: green;
+    cursor: pointer;
+}
